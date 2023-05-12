@@ -1,0 +1,16 @@
+{
+  "name": "dsu-manager-guides",
+  "version": "1.0.0",
+  "description": "guides for DSU Manager",
+  "main": "none",
+  "repository": "https://github.com/breeze2/dsu-manager-guides",
+  "author": "YickFung <lamyickfung@gmail.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "scripts": {
+    "build:web": "rm -rf web && cp -R node_modules/@breeze2/dsu-manager-web/build ./web"
+  },
+  "dependencies": {
+    "@breeze2/dsu-manager-web": "^0.1.1-0"
+  }
+}
