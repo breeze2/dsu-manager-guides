@@ -1,0 +1,15 @@
+{
+  "version": "0.1.0",
+  "notes": "There are some new features.",
+  "pub_date": "2023-05-11T16:18:57.065Z",
+  "platforms": {
+    "windows-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPek82dDlpamhvTW9wcUZiaUFsNTZhTm9SbFh1ODJGT3RtVmtpd1FVaCtPZlJadjM1UmpsY1E1LzBMTmVRb283VVYvYmNxY0g3ZDVwTGRjMklLUUNvWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgzODIxOTMxCWZpbGU6RFNVIE1hbmFnZXJfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKN0xDcTZRaVVLdmtKdlhUYmtkRlFLMUdXK29PSmh6d1JNaWV4alNVdXhwYUJLVDBLTUdtODZEMHM2YzNXby9YT2RHODVyOHdabE0vTmxRYU42TVRxQkE9PQo=",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.1.0/DSU.Manager_0.1.0_x64_en-US.msi.zip"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPek82dDlpamhvTW9wcUZiaUFsNTZhTm9SbFh1ODJGT3RtVmtpd1FVaCtPZlJadjM1UmpsY1E1LzBMTmVRb283VVYvYmNxY0g3ZDVwTGRjMklLUUNvWVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgzODIxOTMxCWZpbGU6RFNVIE1hbmFnZXJfMC4xLjBfeDY0X2VuLVVTLm1zaS56aXAKN0xDcTZRaVVLdmtKdlhUYmtkRlFLMUdXK29PSmh6d1JNaWV4alNVdXhwYUJLVDBLTUdtODZEMHM2YzNXby9YT2RHODVyOHdabE0vTmxRYU42TVRxQkE9PQo=",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.1.0/DSU.Manager_0.1.0_x64_en-US.msi.zip"
+    }
+  }
+}
