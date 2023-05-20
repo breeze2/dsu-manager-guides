@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@breeze2/dsu-manager-web@^0.1.1-0":
-  version "0.1.1-0"
-  resolved "https://npm.pkg.github.com/download/@breeze2/dsu-manager-web/0.1.1-0/deb66e3579da94696f82d8a395ddc0b79ff90686#deb66e3579da94696f82d8a395ddc0b79ff90686"
-  integrity sha512-25a0AlF0guSY5fAUkUQXCMDWpFkSSQQ1WmNWsz/dhrzpLeA7swQ9ilO9SmetpBWrQUTGE705Kq5K3gcsOlP5kA==
+"@breeze2/dsu-manager-web@^0.2.0":
+  version "0.2.0"
+  resolved "https://npm.pkg.github.com/download/@breeze2/dsu-manager-web/0.2.0/ab2bad8d09ed05f644bf7b30a877f5cd4ad1caf2#ab2bad8d09ed05f644bf7b30a877f5cd4ad1caf2"
+  integrity sha512-GIG+t2JytPgM+krzlwQuC9JnXhHzmIYzaP6hUYxUR6CJoQuil6ozy7pm+JSbJV5j4drS29tg3Aut4ckUZd5uFg==
