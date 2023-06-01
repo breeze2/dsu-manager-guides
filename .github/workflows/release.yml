@@ -43,6 +43,8 @@ jobs:
       - name: Release
         uses: tauri-apps/tauri-action@v0
         env:
+          FIREBASE_API_KEY: ${{ secrets.FIREBASE_API_KEY }}
+          GOOGLE_AD_CLIENT: '8868215960675155'
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TAURI_PRIVATE_KEY: ${{ secrets.TAURI_PRIVATE_KEY }}
           TAURI_KEY_PASSWORD: ${{ secrets.TAURI_KEY_PASSWORD }}

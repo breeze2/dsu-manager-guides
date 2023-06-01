@@ -8,6 +8,33 @@
         { "key": "Access-Control-Allow-Methods", "value": "GET,OPTIONS" },
         { "key": "Access-Control-Allow-Headers", "value": "Accept, Accept-Version, Content-Length, Content-MD5, Content-Type, Date" }
       ]
+    },
+    {
+      "source": "/static/(.*)",
+      "headers": [
+        {
+          "key": "cache-control",
+          "value": "public, max-age=2592000"
+        }
+      ]
+    },
+    {
+      "source": "/(.*).(png|ico)",
+      "headers": [
+        {
+          "key": "cache-control",
+          "value": "public, max-age=1200"
+        }
+      ]
+    },
+    {
+      "source": "/",
+      "headers": [
+        {
+          "key": "cache-control",
+          "value": "public, max-age=120"
+        }
+      ]
     }
   ]
 }
