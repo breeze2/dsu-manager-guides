@@ -1,15 +1,15 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "notes": "There are some new features.",
-  "pub_date": "2023-05-21T15:04:56.549Z",
+  "pub_date": "2023-06-01T16:47:00.477Z",
   "platforms": {
     "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekp0R0tVNEllaEgrbitpeHVhMWNzOUtwRkhCTEExOUk5SnkrbkNRRXhLait3R1JlVkc5emVtWkkxWnY1alVGaUcyd2F6anhtMHdtbUt6bXFXNUU3TmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NjgxNDkyCWZpbGU6RFNVTWFuYWdlcl8wLjMuMF94NjRfZW4tVVMubXNpLnppcAo3SGRuZDZ3OFZlTXF0NWp2K2RmVlkzVTVqWjB0Wm1mS0dGYmlUa3NWdGhTTEJMeklURUpIZzg2Rm1wdHBqYmd6MytzdWtlVnJiZTM3SGcxQWxCZC9DQT09Cg==",
-      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.3.0/DSUManager_0.3.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekRlTkNUakFQV0V5aWFtWXRoYWFaLzRuQnBBOVpMMlVORE5tQ3JOZWFicGdUc203dW9veC9SVnlIYkVVM0c2Und0R3dqaTB3YSs0MTczQ2JVcEw5d0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1NjM4MDE1CWZpbGU6RFNVTWFuYWdlcl8wLjQuMF94NjRfZW4tVVMubXNpLnppcAp6TnNnVG83dFdOQUtuVlowMXZLUFVwRmlXOWFGZXpFMzM2NFdJME53M1pUeGlmZWo5d0xsVFlXMFNHMXFtSzBQTW1HRnV1eUF2QXJ1M3JyNTE0VUlEdz09Cg==",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.4.0/DSUManager_0.4.0_x64_en-US.msi.zip"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekp0R0tVNEllaEgrbitpeHVhMWNzOUtwRkhCTEExOUk5SnkrbkNRRXhLait3R1JlVkc5emVtWkkxWnY1alVGaUcyd2F6anhtMHdtbUt6bXFXNUU3TmdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg0NjgxNDkyCWZpbGU6RFNVTWFuYWdlcl8wLjMuMF94NjRfZW4tVVMubXNpLnppcAo3SGRuZDZ3OFZlTXF0NWp2K2RmVlkzVTVqWjB0Wm1mS0dGYmlUa3NWdGhTTEJMeklURUpIZzg2Rm1wdHBqYmd6MytzdWtlVnJiZTM3SGcxQWxCZC9DQT09Cg==",
-      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.3.0/DSUManager_0.3.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekRlTkNUakFQV0V5aWFtWXRoYWFaLzRuQnBBOVpMMlVORE5tQ3JOZWFicGdUc203dW9veC9SVnlIYkVVM0c2Und0R3dqaTB3YSs0MTczQ2JVcEw5d0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg1NjM4MDE1CWZpbGU6RFNVTWFuYWdlcl8wLjQuMF94NjRfZW4tVVMubXNpLnppcAp6TnNnVG83dFdOQUtuVlowMXZLUFVwRmlXOWFGZXpFMzM2NFdJME53M1pUeGlmZWo5d0xsVFlXMFNHMXFtSzBQTW1HRnV1eUF2QXJ1M3JyNTE0VUlEdz09Cg==",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.4.0/DSUManager_0.4.0_x64_en-US.msi.zip"
     }
   }
 }
