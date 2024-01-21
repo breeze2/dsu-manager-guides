@@ -11,6 +11,6 @@
     "build:web": "rm -rf web && cp -R node_modules/@breeze2/dsu-manager-web/build ./web"
   },
   "dependencies": {
-    "@breeze2/dsu-manager-web": "^0.4.0"
+    "@breeze2/dsu-manager-web": "^0.5.0"
   }
 }
