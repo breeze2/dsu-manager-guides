@@ -12,7 +12,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        platform: [windows-latest]
+        platform: [windows-latest, ubuntu-22.04,  ubuntu-22.04-arm]
     runs-on: ${{ matrix.platform }}
 
     steps:
@@ -39,6 +39,12 @@ jobs:
 
       - name: Install frontend dependencies
         run: yarn install
+
+      - name: Install Linux dependencies
+        if: startsWith(matrix.platform, 'ubuntu-22.04')
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libwebkit2gtk-4.0-dev build-essential curl wget libssl-dev libgtk-3-dev libayatana-appindicator3-dev librsvg2-dev
 
       - name: Release
         uses: tauri-apps/tauri-action@v0
