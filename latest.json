@@ -1,15 +1,35 @@
 {
-  "version": "0.4.0",
+  "version": "0.6.0",
   "notes": "There are some new features.",
-  "pub_date": "2023-06-01T16:47:00.477Z",
+  "pub_date": "2026-04-25T15:38:59.122Z",
   "platforms": {
-    "windows-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekRQR1FLK2wwNGtlcE00Z09yejNEY25jM2paNTVySE1WRFJRWUF0SEVPQTlmR0lOSzdubmxzaG9MM0pycGNRQ3h1bTk0V3VRV2FMS2krSGZhWmVPeFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1ODM0MTQxCWZpbGU6RFNVTWFuYWdlcl8wLjUuMF94NjRfZW4tVVMubXNpLnppcApBUnc0WGFLaWF2aC9KeUhIWFZLY1BNZzR3VHZMaWRJWWI2eTlKYVhncUdCY2hrN1pnMjdHNzBzOGpnRlREYXo0MkZsMGdkZWlCenhjMFhyYVBuY2dCdz09Cg==",
-      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.5.0/DSUManager_0.5.0_x64_en-US.msi.zip"
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekx1cEx4ZkE5UlVKdTNsY0YvUXlKajR1YXJLeDJtUE9zUXNEUDlMR0RkckdyNUFjak1MV1kvTDZ1eW55ZzFvT0N5NjVaTGUyZGNkbGczSUt0RnNmZmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNDU3CWZpbGU6ZHN1LW1hbmFnZXJfMC42LjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6ClJHdWJUcmlvLzJ2SDVSY3VoSVJOdmU4cmlnK21YeW4wTlk0RFIwNHpNeEFXT3pkQzJPdFMzOXkrZ0UxcVRwZms5VFBwVWFSRFI5dFozeUZkUEk2ckR3PT0K",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/dsu-manager_0.6.0_amd64.AppImage.tar.gz"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekx1cEx4ZkE5UlVKdTNsY0YvUXlKajR1YXJLeDJtUE9zUXNEUDlMR0RkckdyNUFjak1MV1kvTDZ1eW55ZzFvT0N5NjVaTGUyZGNkbGczSUt0RnNmZmd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNDU3CWZpbGU6ZHN1LW1hbmFnZXJfMC42LjBfYW1kNjQuQXBwSW1hZ2UudGFyLmd6ClJHdWJUcmlvLzJ2SDVSY3VoSVJOdmU4cmlnK21YeW4wTlk0RFIwNHpNeEFXT3pkQzJPdFMzOXkrZ0UxcVRwZms5VFBwVWFSRFI5dFozeUZkUEk2ckR3PT0K",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/dsu-manager_0.6.0_amd64.AppImage.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekRQR1FLK2wwNGtlcE00Z09yejNEY25jM2paNTVySE1WRFJRWUF0SEVPQTlmR0lOSzdubmxzaG9MM0pycGNRQ3h1bTk0V3VRV2FMS2krSGZhWmVPeFFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzA1ODM0MTQxCWZpbGU6RFNVTWFuYWdlcl8wLjUuMF94NjRfZW4tVVMubXNpLnppcApBUnc0WGFLaWF2aC9KeUhIWFZLY1BNZzR3VHZMaWRJWWI2eTlKYVhncUdCY2hrN1pnMjdHNzBzOGpnRlREYXo0MkZsMGdkZWlCenhjMFhyYVBuY2dCdz09Cg==",
-      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.5.0/DSUManager_0.5.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekR1ZDNTYkNFWFVLVmJWUHZEZmQza3F3ejB5b3U0TXdRU2o1ajRmbEF3dGdONmxxSHh1eHNtQ24zRUpWUk83UlZPMVJwTGtpYWh1dkJsQ0RTbUlsMEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNTI4CWZpbGU6RFNVTWFuYWdlcl8wLjYuMF94NjRfZW4tVVMubXNpLnppcApKZFRmTlZYUVVvZnFNeC9VN0RFd2VNZXNSMkcxVkJWQXFWNFg2T0hCU1lYbm1mQUFqMmxZQ09hZVZxK0hBeDFIL2VXaTI5MitudGsxbWtwYkNKd0ZEZz09Cg==",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/DSUManager_0.6.0_x64_en-US.msi.zip"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekR1ZDNTYkNFWFVLVmJWUHZEZmQza3F3ejB5b3U0TXdRU2o1ajRmbEF3dGdONmxxSHh1eHNtQ24zRUpWUk83UlZPMVJwTGtpYWh1dkJsQ0RTbUlsMEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNTI4CWZpbGU6RFNVTWFuYWdlcl8wLjYuMF94NjRfZW4tVVMubXNpLnppcApKZFRmTlZYUVVvZnFNeC9VN0RFd2VNZXNSMkcxVkJWQXFWNFg2T0hCU1lYbm1mQUFqMmxZQ09hZVZxK0hBeDFIL2VXaTI5MitudGsxbWtwYkNKd0ZEZz09Cg==",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/DSUManager_0.6.0_x64_en-US.msi.zip"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekxvUXFhbHNqUzV3Q2NlZHZXWTZJRnVGL1NaMHdNZWFoUzArUmtNNjlUb1ZpMmx0TkNBQUgzZ2hmSGk4QU4vS2ZYTmtsZ1lKK1AzWU1FZFRSQnVrMHc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNTI4CWZpbGU6RFNVTWFuYWdlcl8wLjYuMF94NjQtc2V0dXAubnNpcy56aXAKY2N2NlNZOVFqbUFKTEliM0xYbmFjOFlYSWcybXZmRldrNGJMWUxkczM5U1RheDVsMktkVUtRVzdhQVByb3pCd0VxQk4zb1E0bHRlRXBWTnJ4YjBURHc9PQo=",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/DSUManager_0.6.0_x64-setup.nsis.zip"
+    },
+    "linux-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekxBcG1xNmJ1WUF6OHhJZG43RHNtdkFPZjJlTzg3U21HKzlHenViNmQ1V3NNTEJrallSSWQxdngvMWJwTmtlNGpMNVc1TGJ1Z254a0c2TW5GbDh6UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNTMwCWZpbGU6ZHN1LW1hbmFnZXJfMC42LjBfYWFyY2g2NC5BcHBJbWFnZS50YXIuZ3oKYk80TUdmWEJWS2wrZnFVY045MG5zUXJMcXpUTnZCUzNNSGxZclNSKzhkUnJUU3MvbGg0cnpGcWFSU1B4NFpGVmdMekxleHBjMlZObkdOWVhyREVtQ0E9PQo=",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/dsu-manager_0.6.0_aarch64.AppImage.tar.gz"
+    },
+    "linux-aarch64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYlE3OE9rT0RPekxBcG1xNmJ1WUF6OHhJZG43RHNtdkFPZjJlTzg3U21HKzlHenViNmQ1V3NNTEJrallSSWQxdngvMWJwTmtlNGpMNVc1TGJ1Z254a0c2TW5GbDh6UHdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MTMxNTMwCWZpbGU6ZHN1LW1hbmFnZXJfMC42LjBfYWFyY2g2NC5BcHBJbWFnZS50YXIuZ3oKYk80TUdmWEJWS2wrZnFVY045MG5zUXJMcXpUTnZCUzNNSGxZclNSKzhkUnJUU3MvbGg0cnpGcWFSU1B4NFpGVmdMekxleHBjMlZObkdOWVhyREVtQ0E9PQo=",
+      "url": "https://github.com/breeze2/dsu-manager-guides/releases/download/v0.6.0/dsu-manager_0.6.0_aarch64.AppImage.tar.gz"
     }
   }
 }
